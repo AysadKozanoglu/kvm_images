@@ -2,7 +2,7 @@
  Author: Aysad Kozanoglu
   email: aysadx@gmail.com
 
-### preinstalled KVM images  repo
+### preinstalled KVM Cloud Compute images  repo
 
 #### INFO:
 
