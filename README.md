@@ -12,8 +12,10 @@ use tar -zxvf <IMGPACKAGE>.tar.gz to extract the tar.gz
 
 
 ##### default account credentials
+<pre>
 ssh account: user:user!
 su account : root:toor!
+</pre>
 
 ### Download images:
 
